@@ -29,12 +29,12 @@
 
 
 
-- 🔭 I’m currently working on [ZuttPal AIO](https://github.com/FaxHack/ZuttPal).
+- 🔭 I’m currently working on [Stuff]().
 - 🌱 I’m currently learning more about C# and Java.
 - 👯 I’m looking to collaborate on [Youtube](https://www.youtube.com/channel/UCShF_EaNdqTPAbrOMCrgKWg/).
 - 🤔 I’m looking for help with Java.
 - 💬 Ask me about Minecraft or any tech related stuff.
-- 📫 How to reach me: [Twitter - @sike](https://twitter.com) , [Youtube - @FaxHack 2b2t](https://www.youtube.com/channel/UCShF_EaNdqTPAbrOMCrgKWg/)
+- 📫 How to reach me: [Twitter - @Pormhub](https://twitter.com) , [Youtube - @FaxHack 2b2t](https://www.youtube.com/channel/UCShF_EaNdqTPAbrOMCrgKWg/)
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I spend almost 12 hours listening songs everyday.
 
@@ -60,8 +60,8 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Faxhack&repo=ZuttPal&theme=light" />
 
 </a>
-<a href="https://github.com/FaxHack/FaxHack-Client">
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=FaxHack&repo=FaxHack-Client&theme=light" />
+<a href=https://github.com/FaxHack/Abyss-Client-Leak-Full-Version">
+ <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=FaxHack&repo=Abyss-Client-Leak-Full-Version"&theme=light" />
 </a>
 
 <div align="center">
