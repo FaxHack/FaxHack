@@ -34,7 +34,7 @@
 - 👯 I’m looking to collaborate on [Youtube](https://www.youtube.com/channel/UCShF_EaNdqTPAbrOMCrgKWg/).
 - 🤔 I’m looking for help with Java.
 - 💬 Ask me about Minecraft or any tech related stuff.
-- 📫 How to reach me: [Twitter - @Pormhub](https://twitter.com) , [Youtube - @FaxHack 2b2t](https://www.youtube.com/channel/UCShF_EaNdqTPAbrOMCrgKWg/)
+- 📫 How to reach me: [Twitter - @](https://twitter.com) , [Youtube - @FaxHack](https://www.youtube.com/channel/UCShF_EaNdqTPAbrOMCrgKWg/)
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I spend almost 12 hours listening songs everyday.
 
