@@ -35,7 +35,7 @@
 - 🤔 I’m looking for help with Java.
 - 💬 Ask me about Minecraft or any tech related stuff.
 - 📫 How to reach me: [Twitter - @](https://twitter.com) , [Youtube - @FaxHack](https://www.youtube.com/channel/UCShF_EaNdqTPAbrOMCrgKWg/)
-- 😄 Pronouns: He/His
+- 😄 Pronouns: He "NOT HIS"
 - ⚡ Fun fact: I spend almost 12 hours listening songs everyday.
 
 [![Twitter: 1](https://img.shields.io/twitter/follow/sike?style=social)](https://twitter.com/)
