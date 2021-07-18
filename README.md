@@ -30,7 +30,7 @@
 
 
 - 🔭 I’m currently working on [Stuff]().
-- 🌱 I’m currently learning more about C# and Java.
+- 🌱 I’m currently looking to learning Css,Html,JavaScript,C# and Java.
 - 👯 I’m looking to collaborate on [Youtube](https://www.youtube.com/channel/UCShF_EaNdqTPAbrOMCrgKWg/).
 - 🤔 I’m looking for help with Java.
 - 💬 Ask me about Minecraft or any tech related stuff.
