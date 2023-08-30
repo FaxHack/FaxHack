@@ -5,7 +5,7 @@
 
  <p align="center"><br>
    <a href="https://github.com/FaxHack">
-     <img src="https://lanyard.cnrad.dev/api/1088869786026516560"/>
+     <img src="https://lanyard.cnrad.dev/api/113845694366980506"/>
       </a>
  </p>
 
