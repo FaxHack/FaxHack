@@ -18,11 +18,11 @@
 	<br><br>
 	<b>My Github Stats</b>
   <br>
-  <img src="https://camo.githubusercontent.com/48efeefafe2787fbc64b51b15542656e66c3f46899bb45b3771ba226bd32a67c/68747470733a2f2f6769746875622d726561646d652d73747265616b2d73746174732e6865726f6b756170702e636f6d3f757365723d4661784861636b267468656d653d6461726b26646174655f666f726d61743d4d2532306a2535422532432532305925354426686964655f626f726465723d74727565">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=FaxHack&theme=dark&hide_border=true">
 	<br>
-	<img src="https://github-readme-stats.vercel.app/api?username=FaxHack&include_all_commits=true&show_icons=true&hide_border=true&hide_title=true&count_private=true&theme=dark">
+	<img src="https://github-readme-stats.vercel.app/api?username=FaxHack&theme=dark&show_icons=true&hide_border=true&count_private=true">
 	<br>
-	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FaxHack&layout=compact&count_private=true&langs_count=8&hide_border=true&theme=dark">
+	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FaxHack&theme=dark&show_icons=true&hide_border=true&layout=compact">
 </p>
 <p>&nbsp;</p>
 <p align="center"> 
