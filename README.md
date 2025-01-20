@@ -1,33 +1,63 @@
-<p align='center'>
-  <b>Hi 👋, I'm FaxHack Founder of ReverseLabs and Cyber Security Enthusiast</b><br>
-  <a href="https://jouneyportfolio.pages.dev/">Website</a>
- </p>
+<h2 align="left">Hi 👋, I'm FaxHack Founder of ReverseLabs and Cyber Security Enthusiast</h2>
 
- <p align="center"><br>
-   <a href="https://github.com/FaxHack">
-     <img src="https://lanyard.cnrad.dev/api/1138456943669805066"/>
-      </a>
- </p>
+###
 
- <br>
- <p align="center">
- 	<b>Languages</b>
-	<br>
-	<code><img height="25" src="https://raw.githubusercontent.com/github/explore/180320cffc25f4ed1bbdfd33d4db3a66eeeeb358/topics/cpp/cpp.png"></code>&nbsp;|
-	<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png"></code>&nbsp;
-	<br><br>
-	<b>My Github Stats</b>
-  <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=FaxHack&theme=dark&hide_border=true">
-	<br>
-	<img src="https://github-readme-stats.vercel.app/api?username=FaxHack&theme=dark&show_icons=true&hide_border=true&count_private=true">
-	<br>
-	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FaxHack&theme=dark&show_icons=true&hide_border=true&layout=compact">
-</p>
-<p>&nbsp;</p>
-<p align="center"> 
-  <img src="https://profile-counter.glitch.me/FaxHack/count.svg" />
-</p>
-<p align="center">
-	<img height="40" src="https://media.discordapp.net/attachments/846713231661727784/919876399563681862/file.gif">&nbsp;
-</p>
+<br clear="both">
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=FaxHack&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-streak-stats-teal-gamma.vercel.app?user=FaxHack&theme=radical&border_radius=5&card_width=320" height="150" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=FaxHack&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=false" height="150" alt="languages graph"  />
+</div>
+
+###
+
+<div align="center">
+  <img height="150" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExczMweDd4MXFjcHA1cGJzMzVnbTB3NG9zNmhwajFvdDh4NTczeGptZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LUqoojDFxBGGA/giphy.gif"  />
+</div>
+
+###
+
+<br clear="both">
+
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="45" alt="csharp logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="45" alt="cplusplus logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" height="45" alt="rust logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="45" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="45" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="45" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="45" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="45" alt="css3 logo"  />
+</div>
+
+###
+
+<br clear="both">
+
+<div align="center">
+  <a href="https://www.twitch.tv/2b2tjourney" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
+  </a>
+  <a href="https://www.youtube.com/@2b2tJourney" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
+  </a>
+  <a href="https://discord.gg/kjjqEgghxj" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
+  </a>
+</div>
+
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/FaxHack/FaxHack/output/snake.svg" alt="Snake animation" />
+
+###
