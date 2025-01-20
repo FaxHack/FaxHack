@@ -1,13 +1,19 @@
 <h2 align="left">Hi 👋, I'm FaxHack Founder of ReverseLabs and Cyber Security Enthusiast</h2>
 
+ <p align="center"><br>
+   <a href="https://github.com/FaxHack">
+     <img src="https://lanyard.cnrad.dev/api/1138456943669805066"/>
+      </a>
+ </p>
+
 ###
 
 <br clear="both">
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=FaxHack&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=false&card_width=320" height="150" alt="stats graph"  />
-  <img src="https://github-readme-streak-stats-teal-gamma.vercel.app?user=FaxHack&theme=radical&border_radius=5&card_width=320" height="150" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=FaxHack&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=FaxHack&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=true&card_width=320" height="150" alt="stats graph"  />
+  <img src="https://github-readme-streak-stats-teal-gamma.vercel.app?user=FaxHack&theme=radical&border_radius=5&hide_border=true&card_width=320" height="150" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=FaxHack&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=true" height="150" alt="languages graph"  />
 </div>
 
 ###
@@ -60,4 +66,11 @@
 
 <img src="https://raw.githubusercontent.com/FaxHack/FaxHack/output/snake.svg" alt="Snake animation" />
 
-###
+</p>
+<p>&nbsp;</p>
+<p align="center"> 
+  <img src="https://profile-counter.glitch.me/FaxHack/count.svg" />
+</p>
+<p align="center">
+	<img height="40" src="https://media.discordapp.net/attachments/846713231661727784/919876399563681862/file.gif">&nbsp;
+</p>
