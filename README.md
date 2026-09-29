@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋, I'm FaxHack Founder of ReverseLabs and Cyber Security Enthusiast</h2>
+<h2 align="left">Hi 👋, I'm FaxHack a Cyber Security Enthusiast</h2>
 
  <p align="center"><br>
    <a href="https://github.com/FaxHack">
